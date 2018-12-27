@@ -17,13 +17,13 @@
 
 
 
-###팀원  특징 소개!
+### 팀원  특징 소개!
 
 ---
 
 **서진환**
 
-<img src="./img/다운로드.jpeg" width="400px" />
+<img src="./img/download_JPG.jpeg" width="400px" />
 
 ​								     `폭넓은 관심 분야!`
 
@@ -45,7 +45,7 @@
 
 **윤인호**
 
-<img src="./img/다운로드 (1).jpeg" width="400px" />
+<img src="./img/download_1.jpeg" width="400px" />
 
 ​									`포기는 없다!`
 
@@ -55,7 +55,7 @@
 
 **심창훈**
 
-<img src="./img/다운로드.png" width="400px" />
+<img src="./img/download_PNG.png" width="400px" />
 
 ​							`묵묵히 열심히!`
 
@@ -77,7 +77,7 @@
 
 **류수한**
 
-<img src="./img/다운로드 (2).jpeg" width="400px" />
+<img src="./img/download_2.jpeg" width="400px" />
 
 ​								 	`파이어~!!!`
 
