@@ -46,7 +46,7 @@ url                      : "https://sungkae.github.io"
 
 baseurl                  : "/KEY-board"
 
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "sungkae/KEY-board"
 
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 
