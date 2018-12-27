@@ -44,7 +44,7 @@ description              : "SSAFY 서울 8반 KEY-board의 블로그입니다."
 
 url                      : "https://sungkae.github.io"
 
-baseurl                  : "KEY-board"
+baseurl                  : "/KEY-board"
 
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 
