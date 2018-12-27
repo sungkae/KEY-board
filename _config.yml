@@ -24,7 +24,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 
-# remote_theme           : "mmistakes/minimal-mistakes"
+remote_theme           : "mmistakes/minimal-mistakes"
 
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
@@ -46,7 +46,7 @@ url                      : "https://sungkae.github.io"
 
 baseurl                  : "/KEY-board"
 
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "sungkae/KEY-board"
 
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 
