@@ -23,7 +23,7 @@
 
 **서진환**
 
-![다운로드](/Users/ryudd/Downloads/다운로드.jpeg){: .side}
+![다운로드](/Users/ryudd/Downloads/다운로드.jpeg)
 
 ​								     `폭넓은 관심 분야!`
 
@@ -67,7 +67,7 @@
 
 **박성태**
 
-![1259993850FE392803](/Users/ryudd/Downloads/1259993850FE392803.jpeg){: width="80%" height="80%"}
+![1259993850FE392803](/Users/ryudd/Downloads/1259993850FE392803.jpeg)
 
 ​									`단순한 장난꾸러기`
 
@@ -77,7 +77,7 @@
 
 **류수한**
 
-![다운로드 (2)](/Users/ryudd/Downloads/다운로드 (2).jpeg){: center}
+![다운로드 (2)](/Users/ryudd/Downloads/다운로드 (2).jpeg)
 
 ​								 	`파이어~!!!`
 
